@@ -1,1 +1,3 @@
 # nodejspaypal
+
+npm install
